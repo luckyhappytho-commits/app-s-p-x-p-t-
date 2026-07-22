@@ -1,0 +1,6 @@
+{
+  "name": "English Tense Master",
+  "description": "Grade 5 English Grammar Learning Game - Sentence Builder & Grammar Challenge with 50 Questions, Sound FX, Leaderboard and Google Sheets Integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
